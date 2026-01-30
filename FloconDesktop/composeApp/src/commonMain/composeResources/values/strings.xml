@@ -53,7 +53,7 @@
     <string name="network_header_time">Time</string>
     <string name="new_client_version">New client version available: %1$s</string>
     <string name="new_client_version_desc">Don’t forget to update the app version\n(current: %1$s)</string>
-    <string name="new_desktop_version">New destkop version available: %1$s</string>
+    <string name="new_desktop_version">New desktop version available: %1$s</string>
     <string name="no_analytics">No analytics</string>
     <string name="no_devices_found">No Devices Found</string>
     <string name="open_external">Open in external editor</string>

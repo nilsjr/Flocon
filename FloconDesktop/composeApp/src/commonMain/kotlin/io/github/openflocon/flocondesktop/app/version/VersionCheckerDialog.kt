@@ -140,7 +140,7 @@ private fun VersionCheckerDialogPreview() {
             version = VersionCheckerViewModel.VersionAvailableUiModel(
                 version = "1.0.0",
                 link = "https://github.com/openflocon/flocon-desktop",
-                title = "New destkop version available: 1.0.0",
+                title = "New desktop version available: 1.0.0",
                 subtitle = "subtitle",
             )
         )
